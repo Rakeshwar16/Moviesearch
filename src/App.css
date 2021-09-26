@@ -366,6 +366,69 @@ h1,h2, h3 {
   }
 }
 
+@media only screen and (max-width:412px) {
+  .container {
+    width: 100%;
+    margin-left: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 100%;
+  }
+
+  .movie-search {
+    width: 30vh;
+    height: 30px;
+    font-size: 14px;
+    border-radius: 10px;
+    border: 1.5px solid white;
+    outline: none;
+    text-indent: 8px;
+    color: white;
+    background-color: rgb(102, 102, 102);
+  }
+
+  .input-group {
+    display: flex;
+    margin-top: 10px;
+    justify-content: start;
+  }
+
+  .btn {
+    border: none;
+    background-color: rgb(9, 144, 255);
+    font-size: 12px;
+    border-radius: 8px;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+
+  .movie {
+    padding: 5px;
+    margin-top: 20px;
+    /* flex-direction: column; */
+  }
+
+  .poster {
+    width: 275px;
+  }
+
+.detail {
+    color: white;
+    margin-left: -245px;
+    margin-top: 400px;
+  }
+
+  .padding > h1 {
+    font-size: 22px;
+  }
+
+  .padd p {
+    font-size: 12px;
+  }
+}
+
 @media only screen and (max-width:376px) {
   .container {
     width: 100%;
