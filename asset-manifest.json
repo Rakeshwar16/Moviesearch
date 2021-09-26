@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moviesearch/static/css/main.78ff1137.chunk.css",
+    "main.js": "/moviesearch/static/js/main.a049af20.chunk.js",
+    "main.js.map": "/moviesearch/static/js/main.a049af20.chunk.js.map",
+    "runtime-main.js": "/moviesearch/static/js/runtime-main.097d50fc.js",
+    "runtime-main.js.map": "/moviesearch/static/js/runtime-main.097d50fc.js.map",
+    "static/js/2.10e5f648.chunk.js": "/moviesearch/static/js/2.10e5f648.chunk.js",
+    "static/js/2.10e5f648.chunk.js.map": "/moviesearch/static/js/2.10e5f648.chunk.js.map",
+    "static/js/3.ce9eae51.chunk.js": "/moviesearch/static/js/3.ce9eae51.chunk.js",
+    "static/js/3.ce9eae51.chunk.js.map": "/moviesearch/static/js/3.ce9eae51.chunk.js.map",
+    "index.html": "/moviesearch/index.html",
+    "static/css/main.78ff1137.chunk.css.map": "/moviesearch/static/css/main.78ff1137.chunk.css.map",
+    "static/js/2.10e5f648.chunk.js.LICENSE.txt": "/moviesearch/static/js/2.10e5f648.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/moviesearch/static/media/pexels-adrien-olichon-2387793.258bf262.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.097d50fc.js",
+    "static/js/2.10e5f648.chunk.js",
+    "static/css/main.78ff1137.chunk.css",
+    "static/js/main.a049af20.chunk.js"
+  ]
+}
